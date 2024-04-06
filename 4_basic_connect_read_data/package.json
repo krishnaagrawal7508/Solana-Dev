@@ -1,0 +1,16 @@
+{
+  "name": "4_basic_connect_read_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4_basic_connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.4"
+  },
+  "type": "module"
+}

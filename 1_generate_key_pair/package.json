@@ -1,0 +1,18 @@
+{
+  "name": "1_generate_key_pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_generate_keypair.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.4",
+    "base58": "^2.0.1",
+    "bs58": "^5.0.0"
+  },
+  "type": "module"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "3_keypair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3_keyPair.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
+    "bs58": "^5.0.0"
+  },
+  "type": "module"
+}
