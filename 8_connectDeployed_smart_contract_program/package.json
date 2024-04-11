@@ -1,0 +1,17 @@
+{
+  "name": "8_connectdeployed_smart_contract_program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8_send_ping_transaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
+    "@solana/web3.js": "^1.91.4"
+  },
+  "type": "module"
+}
