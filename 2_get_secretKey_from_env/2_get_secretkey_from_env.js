@@ -10,3 +10,7 @@ console.log(
 console.log(keypair);
 console.log(`The public key is: `, keypair.publicKey.toBase58());
 console.log(`The secret key is: `, base58.encode(keypair.secretKey));
+
+// console.log(`The secret key is: `, base58.decode("3yRgLUG4ShSJhMqamdWTonGosZKAinm88NDobHDV3hQKJweLgCSKUkBzara6ADcwJu5Dy47VUq74zKuy87H824MF"));
+// console.log(`The secret key is: `, base58.decode("4ywec7dSTQ9DuRoAiUVgZXkhdn6X4L9oiPxkLMnVReHtko7VEmhP58oCCRmXU8zJTPSeNrJFiKSGW4YAzzaSsqe7"));
+
