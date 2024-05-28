@@ -1,0 +1,17 @@
+{
+  "name": "12_get_all_token_balance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "view_all_tokens.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.8"
+  },
+  "type": "module"
+}
